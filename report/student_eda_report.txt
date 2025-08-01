@@ -1,0 +1,31 @@
+🎓 STUDENT DATA EXPLORATORY REPORT
+==================================================
+
+📌 Count of Students by Gender
+----------------------------------------
+Gender
+Female    516
+Male      484
+
+📌 Count by Parent Education Level
+----------------------------------------
+Parent_Education
+PhD            281
+Bachelor       254
+High School    243
+Masters        222
+
+📌 Count of Students by Address
+----------------------------------------
+Address
+Urban    501
+Rural    499
+
+📌 Count of Students by Age
+----------------------------------------
+Age
+15    267
+16    263
+17    259
+18    211
+
