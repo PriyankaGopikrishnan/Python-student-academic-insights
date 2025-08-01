@@ -26,6 +26,13 @@ Python-Student-Academic-Insights/
 │   ├── eda_health.py
 │   └── combined_analysis.py
 │
+├── 📁 notebooks/                  ← (optional if you convert to .ipynb)
+│   ├── 01_data_generation.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_outlier_report.ipynb
+│   ├── 04_eda_students.ipynb
+│   └── 05_combined_analysis.ipynb
+│
 ├── 📁 outputs/
 │   ├── student_score_summary.csv
 │   ├── outliers_report.csv
@@ -34,9 +41,6 @@ Python-Student-Academic-Insights/
 ├── 📄 README.md                   ← Project overview & usage instructions
 ├── 📄 requirements.txt            ← List of libraries (e.g., pandas, matplotlib)
 └── 📄 .gitignore                  ← To ignore __pycache__/, .ipynb_checkpoints/
-
-```
-
 ---
 
 ## 🚀 Overview
