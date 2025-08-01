@@ -7,28 +7,34 @@ A comprehensive end-to-end data analysis project using PYTHON & TABLEAU, based o
 
 ## 📁 Project Structure
 
-```
-📆 Student-Performance-Analysis
-👃 data/
-│   ├─ students.csv
-│   ├─ student_scores.csv
-│   ├─ attendance.csv
-│   ├─ health.csv
-│   └─ subjects.csv
-📃 notebooks/
-│   ├─ 01_data_generation.ipynb
-│   ├─ 02_data_cleaning.ipynb
-│   ├─ 03_outlier_report.ipynb
-│   ├─ 04_eda_students.ipynb
-│   ├─ 05_eda_scores.ipynb
-│   ├─ 06_eda_attendance.ipynb
-│   ├─ 07_eda_health.ipynb
-│   └─ 08_combined_analysis.ipynb
-📂 dashboard/
-│   └─ student_dashboard.twbx
-📄 reports/
-│   └─ student_eda_summary.pdf
-└─ README.md
+Python-Student-Academic-Insights/
+│
+├── 📁 data/
+│   ├── students.csv
+│   ├── student_scores.csv
+│   ├── attendance.csv
+│   ├── health.csv
+│   └── subjects.csv
+│
+├── 📁 scripts/
+│   ├── generate_clean_dataset.py
+│   ├── inject_unclean_dataset.py
+│   ├── data_cleaning.py
+│   ├── eda_students.py
+│   ├── eda_scores.py
+│   ├── eda_attendance.py
+│   ├── eda_health.py
+│   └── combined_analysis.py
+│
+├── 📁 outputs/
+│   ├── student_score_summary.csv
+│   ├── outliers_report.csv
+│   └── visualizations/           ← charts/images (PNG, SVG, etc.)
+│
+├── 📄 README.md                   ← Project overview & usage instructions
+├── 📄 requirements.txt            ← List of libraries (e.g., pandas, matplotlib)
+└── 📄 .gitignore                  ← To ignore __pycache__/, .ipynb_checkpoints/
+
 ```
 
 ---
