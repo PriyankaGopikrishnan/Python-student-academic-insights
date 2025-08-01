@@ -1,12 +1,12 @@
-# Python-student-academic-insights
- # 📊 Student Performance Analysis
+# 📊 Student Performance Analysis
 
-A comprehensive end-to-end data analysis project using PYTHON & TABLEAU, based on synthetic student data representing real-world educational scenarios. This project covers data generation, data cleaning, EDA (Exploratory Data Analysis), and visual storytelling.
+A comprehensive end-to-end data analysis project using Python & Tableau, based on synthetic student data representing real-world educational scenarios. This project covers data generation, data cleaning, EDA (Exploratory Data Analysis), and visual storytelling.
 
 ---
 
 ## 📁 Project Structure
 
+```
 Python-Student-Academic-Insights/
 │
 ├── 📁 data/
@@ -41,6 +41,8 @@ Python-Student-Academic-Insights/
 ├── 📄 README.md                   ← Project overview & usage instructions
 ├── 📄 requirements.txt            ← List of libraries (e.g., pandas, matplotlib)
 └── 📄 .gitignore                  ← To ignore __pycache__/, .ipynb_checkpoints/
+```
+
 ---
 
 ## 🚀 Overview
@@ -132,7 +134,7 @@ Created an interactive **Tableau dashboard** to showcase:
 * Absence vs Score impact
 * Health insights
 
-> ✅ 
+> ✅ [Click here to view the dashboard (sample placeholder)](https://public.tableau.com/)
 
 ---
 
@@ -152,8 +154,8 @@ Created an interactive **Tableau dashboard** to showcase:
 * Storytelling through data visualizations
 * Preparing data for business dashboard reporting
 
----
 
+---
 
 
 ## ✨ Contact
