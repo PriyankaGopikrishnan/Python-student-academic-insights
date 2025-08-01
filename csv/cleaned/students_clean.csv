@@ -1,0 +1,1001 @@
+Student_ID,Gender,Age,Address,Parent_Education
+1001,Male,16,Urban,PhD
+1002,Female,17,Rural,Bachelor
+1003,Male,15,Rural,Bachelor
+1004,Male,15,Rural,PhD
+1005,Male,15,Rural,High School
+1006,Female,15,Urban,High School
+1007,Male,18,Rural,Bachelor
+1008,Male,15,Urban,High School
+1009,Male,18,Urban,PhD
+1010,Female,18,Urban,High School
+1011,Male,15,Urban,Bachelor
+1012,Male,15,Urban,PhD
+1013,Male,16,Rural,High School
+1014,Male,17,Rural,Masters
+1015,Female,15,Rural,PhD
+1016,Male,16,Rural,PhD
+1017,Female,16,Urban,Masters
+1018,Female,17,Rural,Masters
+1019,Female,18,Urban,PhD
+1020,Male,15,Rural,Masters
+1021,Female,17,Urban,Bachelor
+1022,Male,15,Urban,Bachelor
+1023,Female,16,Rural,Bachelor
+1024,Female,16,Urban,PhD
+1025,Female,18,Urban,Masters
+1026,Female,16,Rural,Masters
+1027,Female,16,Urban,High School
+1028,Female,17,Rural,High School
+1029,Female,15,Rural,Masters
+1030,Female,15,Rural,Masters
+1031,Male,17,Urban,Masters
+1032,Male,18,Urban,PhD
+1033,Female,15,Urban,Masters
+1034,Female,16,Rural,High School
+1035,Female,15,Urban,PhD
+1036,Male,16,Rural,Masters
+1037,Female,18,Rural,High School
+1038,Male,17,Urban,PhD
+1039,Male,15,Rural,Masters
+1040,Male,17,Urban,Masters
+1041,Male,15,Urban,Masters
+1042,Male,16,Urban,PhD
+1043,Female,17,Urban,High School
+1044,Female,15,Urban,High School
+1045,Female,16,Rural,Bachelor
+1046,Female,17,Rural,Masters
+1047,Female,17,Rural,Bachelor
+1048,Male,15,Urban,Bachelor
+1049,Female,15,Urban,High School
+1050,Female,15,Urban,PhD
+1051,Male,16,Rural,PhD
+1052,Female,15,Urban,High School
+1053,Male,17,Rural,PhD
+1054,Female,17,Rural,Bachelor
+1055,Male,15,Urban,Masters
+1056,Female,15,Urban,High School
+1057,Female,18,Rural,Masters
+1058,Male,17,Urban,PhD
+1059,Male,16,Rural,Masters
+1060,Male,18,Urban,PhD
+1061,Male,15,Urban,PhD
+1062,Male,15,Rural,Bachelor
+1063,Male,17,Urban,PhD
+1064,Male,15,Rural,Bachelor
+1065,Male,16,Urban,Bachelor
+1066,Female,17,Rural,Bachelor
+1067,Female,15,Rural,High School
+1068,Male,17,Urban,High School
+1069,Female,15,Rural,PhD
+1070,Female,15,Urban,Bachelor
+1071,Female,15,Urban,High School
+1072,Female,16,Urban,Bachelor
+1073,Male,16,Rural,Masters
+1074,Female,17,Rural,Masters
+1075,Male,15,Urban,Masters
+1076,Female,15,Urban,PhD
+1077,Female,16,Rural,PhD
+1078,Female,15,Urban,Masters
+1079,Male,16,Urban,High School
+1080,Female,15,Rural,Masters
+1081,Male,17,Urban,Masters
+1082,Female,15,Rural,Masters
+1083,Male,15,Urban,PhD
+1084,Female,18,Rural,High School
+1085,Male,16,Urban,Bachelor
+1086,Male,15,Urban,High School
+1087,Female,15,Rural,Bachelor
+1088,Male,18,Urban,PhD
+1089,Female,18,Rural,PhD
+1090,Female,16,Urban,PhD
+1091,Female,18,Rural,PhD
+1092,Female,17,Rural,Bachelor
+1093,Female,18,Rural,Masters
+1094,Female,17,Rural,Bachelor
+1095,Female,16,Urban,High School
+1096,Female,16,Urban,PhD
+1097,Female,16,Rural,PhD
+1098,Female,16,Rural,High School
+1099,Female,16,Rural,Bachelor
+1100,Male,17,Urban,Masters
+1101,Female,17,Urban,Masters
+1102,Female,16,Urban,High School
+1103,Female,18,Urban,Masters
+1104,Female,15,Rural,Bachelor
+1105,Female,16,Rural,Bachelor
+1106,Female,18,Rural,High School
+1107,Female,15,Urban,Bachelor
+1108,Female,16,Urban,PhD
+1109,Female,16,Urban,High School
+1110,Male,17,Rural,Bachelor
+1111,Female,15,Rural,High School
+1112,Male,15,Urban,Masters
+1113,Female,18,Rural,Bachelor
+1114,Female,17,Urban,PhD
+1115,Male,17,Urban,Bachelor
+1116,Female,17,Rural,High School
+1117,Male,17,Urban,High School
+1118,Female,15,Rural,Bachelor
+1119,Female,15,Urban,PhD
+1120,Male,16,Rural,PhD
+1121,Female,16,Rural,PhD
+1122,Male,17,Rural,High School
+1123,Female,17,Urban,Bachelor
+1124,Male,17,Urban,Masters
+1125,Male,16,Rural,High School
+1126,Female,18,Rural,PhD
+1127,Female,18,Urban,Bachelor
+1128,Male,16,Urban,PhD
+1129,Female,16,Urban,Masters
+1130,Female,16,Rural,PhD
+1131,Female,16,Urban,PhD
+1132,Male,16,Urban,Masters
+1133,Male,16,Rural,Bachelor
+1134,Male,17,Urban,High School
+1135,Male,17,Urban,Bachelor
+1136,Male,17,Urban,Masters
+1137,Male,17,Rural,PhD
+1138,Male,16,Rural,Bachelor
+1139,Male,18,Rural,High School
+1140,Male,15,Rural,Masters
+1141,Female,16,Rural,Bachelor
+1142,Male,15,Rural,High School
+1143,Female,18,Rural,Masters
+1144,Female,17,Urban,High School
+1145,Female,18,Urban,Masters
+1146,Male,16,Rural,PhD
+1147,Male,17,Urban,Bachelor
+1148,Male,16,Urban,High School
+1149,Male,17,Rural,Masters
+1150,Female,15,Urban,High School
+1151,Male,15,Urban,High School
+1152,Male,15,Urban,Bachelor
+1153,Male,18,Urban,PhD
+1154,Male,16,Urban,High School
+1155,Male,18,Rural,Masters
+1156,Female,15,Rural,Masters
+1157,Male,16,Rural,PhD
+1158,Female,15,Urban,Masters
+1159,Male,18,Rural,PhD
+1160,Female,18,Urban,Masters
+1161,Male,18,Urban,Bachelor
+1162,Male,15,Urban,High School
+1163,Female,16,Urban,Bachelor
+1164,Female,16,Rural,High School
+1165,Female,15,Rural,High School
+1166,Male,16,Urban,High School
+1167,Female,15,Rural,Bachelor
+1168,Male,16,Urban,High School
+1169,Male,17,Rural,Bachelor
+1170,Female,17,Rural,PhD
+1171,Female,18,Urban,Masters
+1172,Male,17,Rural,Masters
+1173,Male,17,Urban,High School
+1174,Female,17,Rural,Bachelor
+1175,Female,15,Urban,Masters
+1176,Female,17,Urban,Bachelor
+1177,Male,17,Rural,Bachelor
+1178,Male,18,Rural,High School
+1179,Male,17,Urban,Masters
+1180,Male,17,Rural,High School
+1181,Male,16,Rural,High School
+1182,Male,18,Urban,Masters
+1183,Female,18,Urban,Masters
+1184,Male,18,Rural,PhD
+1185,Male,18,Urban,PhD
+1186,Male,18,Urban,Bachelor
+1187,Female,18,Urban,Masters
+1188,Male,15,Rural,PhD
+1189,Male,17,Rural,Bachelor
+1190,Female,18,Urban,Bachelor
+1191,Male,17,Rural,Bachelor
+1192,Male,17,Urban,PhD
+1193,Male,15,Rural,Masters
+1194,Male,18,Urban,High School
+1195,Male,16,Urban,Bachelor
+1196,Female,15,Rural,PhD
+1197,Female,16,Urban,PhD
+1198,Female,17,Rural,High School
+1199,Male,17,Rural,High School
+1200,Male,15,Urban,PhD
+1201,Male,15,Urban,Masters
+1202,Female,16,Rural,High School
+1203,Male,18,Urban,PhD
+1204,Male,16,Urban,High School
+1205,Female,15,Urban,Masters
+1206,Male,16,Urban,Bachelor
+1207,Female,15,Urban,High School
+1208,Female,16,Rural,Masters
+1209,Female,15,Rural,PhD
+1210,Male,15,Urban,High School
+1211,Male,15,Urban,High School
+1212,Male,18,Urban,PhD
+1213,Male,16,Rural,Bachelor
+1214,Male,16,Urban,PhD
+1215,Male,16,Rural,High School
+1216,Male,15,Rural,PhD
+1217,Female,16,Rural,Masters
+1218,Male,16,Urban,PhD
+1219,Female,15,Rural,High School
+1220,Male,17,Urban,PhD
+1221,Male,15,Rural,Bachelor
+1222,Male,16,Urban,PhD
+1223,Female,15,Rural,Bachelor
+1224,Female,17,Urban,Masters
+1225,Female,15,Rural,Bachelor
+1226,Female,16,Urban,PhD
+1227,Male,17,Urban,High School
+1228,Female,18,Urban,Bachelor
+1229,Male,16,Urban,Masters
+1230,Male,17,Rural,Bachelor
+1231,Female,17,Rural,Bachelor
+1232,Female,18,Urban,Bachelor
+1233,Female,15,Rural,Masters
+1234,Female,15,Urban,PhD
+1235,Female,16,Urban,Bachelor
+1236,Female,18,Rural,Bachelor
+1237,Female,15,Urban,High School
+1238,Female,18,Urban,Masters
+1239,Male,15,Rural,Bachelor
+1240,Female,17,Urban,Masters
+1241,Female,15,Urban,Bachelor
+1242,Male,18,Urban,PhD
+1243,Female,17,Urban,PhD
+1244,Male,17,Rural,Bachelor
+1245,Male,17,Rural,PhD
+1246,Female,18,Rural,Bachelor
+1247,Male,16,Urban,PhD
+1248,Male,16,Urban,High School
+1249,Male,16,Rural,High School
+1250,Male,18,Urban,High School
+1251,Female,17,Urban,Masters
+1252,Male,16,Urban,Masters
+1253,Female,18,Urban,High School
+1254,Male,16,Rural,Masters
+1255,Male,15,Rural,PhD
+1256,Male,16,Rural,Bachelor
+1257,Male,16,Urban,Bachelor
+1258,Female,17,Rural,Bachelor
+1259,Female,18,Rural,High School
+1260,Male,17,Urban,Masters
+1261,Male,17,Urban,PhD
+1262,Female,17,Rural,PhD
+1263,Male,17,Rural,High School
+1264,Male,17,Rural,PhD
+1265,Female,16,Rural,PhD
+1266,Female,17,Urban,PhD
+1267,Female,17,Rural,PhD
+1268,Female,18,Rural,Masters
+1269,Male,15,Urban,PhD
+1270,Male,16,Rural,Bachelor
+1271,Female,16,Urban,High School
+1272,Female,16,Urban,Masters
+1273,Female,17,Urban,PhD
+1274,Female,17,Rural,Masters
+1275,Male,17,Rural,PhD
+1276,Female,18,Urban,Bachelor
+1277,Male,15,Rural,High School
+1278,Female,17,Rural,PhD
+1279,Male,15,Urban,PhD
+1280,Female,18,Urban,PhD
+1281,Female,16,Rural,PhD
+1282,Female,17,Urban,High School
+1283,Female,15,Rural,High School
+1284,Male,15,Rural,Bachelor
+1285,Female,17,Rural,High School
+1286,Male,16,Rural,PhD
+1287,Male,16,Urban,Bachelor
+1288,Male,16,Urban,Bachelor
+1289,Male,18,Urban,Bachelor
+1290,Female,15,Urban,PhD
+1291,Male,15,Rural,Masters
+1292,Male,15,Rural,PhD
+1293,Male,18,Urban,High School
+1294,Female,15,Rural,High School
+1295,Female,18,Rural,PhD
+1296,Female,16,Rural,PhD
+1297,Female,17,Urban,Bachelor
+1298,Male,15,Urban,PhD
+1299,Male,15,Urban,Bachelor
+1300,Female,16,Rural,High School
+1301,Male,17,Urban,Bachelor
+1302,Male,18,Urban,PhD
+1303,Male,17,Urban,High School
+1304,Female,16,Urban,Masters
+1305,Female,16,Urban,Bachelor
+1306,Male,17,Urban,High School
+1307,Female,18,Rural,Bachelor
+1308,Female,18,Rural,High School
+1309,Female,15,Urban,High School
+1310,Female,18,Urban,Bachelor
+1311,Female,17,Rural,Masters
+1312,Male,16,Rural,High School
+1313,Female,15,Urban,High School
+1314,Male,15,Urban,High School
+1315,Male,16,Urban,Masters
+1316,Female,18,Urban,Masters
+1317,Male,16,Rural,PhD
+1318,Male,18,Urban,Bachelor
+1319,Male,16,Urban,Masters
+1320,Female,17,Urban,PhD
+1321,Female,18,Urban,PhD
+1322,Male,17,Rural,Bachelor
+1323,Female,15,Rural,Masters
+1324,Female,16,Rural,Bachelor
+1325,Female,15,Urban,Masters
+1326,Female,15,Urban,Bachelor
+1327,Male,15,Rural,Masters
+1328,Male,15,Urban,Masters
+1329,Female,16,Urban,Bachelor
+1330,Female,15,Rural,PhD
+1331,Male,16,Rural,High School
+1332,Male,16,Rural,PhD
+1333,Female,17,Rural,Bachelor
+1334,Male,18,Urban,PhD
+1335,Female,18,Urban,Masters
+1336,Female,16,Rural,High School
+1337,Male,17,Urban,Bachelor
+1338,Male,16,Rural,Bachelor
+1339,Female,16,Rural,Bachelor
+1340,Female,16,Urban,High School
+1341,Male,17,Rural,Masters
+1342,Female,18,Urban,Bachelor
+1343,Male,17,Urban,PhD
+1344,Female,15,Urban,Bachelor
+1345,Male,17,Urban,Bachelor
+1346,Male,17,Rural,Bachelor
+1347,Male,17,Urban,Bachelor
+1348,Female,17,Rural,Masters
+1349,Female,18,Rural,PhD
+1350,Male,15,Rural,Masters
+1351,Female,18,Rural,PhD
+1352,Male,18,Urban,Bachelor
+1353,Male,17,Urban,High School
+1354,Female,16,Rural,Masters
+1355,Female,16,Rural,High School
+1356,Male,18,Urban,Masters
+1357,Female,18,Rural,Bachelor
+1358,Female,17,Urban,Masters
+1359,Male,18,Rural,Bachelor
+1360,Male,17,Urban,Masters
+1361,Female,16,Rural,Bachelor
+1362,Male,16,Rural,Bachelor
+1363,Male,15,Urban,PhD
+1364,Female,16,Rural,Bachelor
+1365,Male,18,Rural,PhD
+1366,Male,16,Urban,Bachelor
+1367,Female,17,Rural,High School
+1368,Female,16,Urban,Bachelor
+1369,Male,15,Urban,High School
+1370,Male,16,Rural,High School
+1371,Female,17,Rural,Bachelor
+1372,Female,17,Rural,High School
+1373,Female,18,Rural,PhD
+1374,Female,16,Rural,Masters
+1375,Male,17,Rural,Bachelor
+1376,Female,15,Rural,High School
+1377,Female,18,Urban,Bachelor
+1378,Male,15,Rural,PhD
+1379,Female,16,Urban,Bachelor
+1380,Male,16,Rural,Bachelor
+1381,Female,16,Rural,High School
+1382,Female,18,Urban,PhD
+1383,Female,17,Rural,Masters
+1384,Male,18,Rural,Masters
+1385,Male,15,Urban,High School
+1386,Female,18,Rural,Bachelor
+1387,Male,15,Rural,High School
+1388,Male,18,Rural,High School
+1389,Male,17,Urban,High School
+1390,Male,15,Rural,Bachelor
+1391,Male,16,Rural,PhD
+1392,Male,16,Rural,High School
+1393,Female,18,Rural,Bachelor
+1394,Female,16,Urban,PhD
+1395,Male,15,Urban,High School
+1396,Female,16,Rural,Masters
+1397,Female,17,Rural,PhD
+1398,Female,17,Urban,High School
+1399,Female,18,Urban,PhD
+1400,Male,15,Rural,PhD
+1401,Female,17,Urban,PhD
+1402,Female,17,Rural,PhD
+1403,Male,15,Urban,PhD
+1404,Male,16,Urban,PhD
+1405,Female,16,Urban,High School
+1406,Female,18,Urban,Masters
+1407,Female,16,Rural,Bachelor
+1408,Female,15,Urban,PhD
+1409,Female,17,Urban,Bachelor
+1410,Female,16,Rural,High School
+1411,Male,18,Urban,PhD
+1412,Female,16,Urban,PhD
+1413,Female,15,Rural,Bachelor
+1414,Male,18,Urban,PhD
+1415,Male,16,Rural,High School
+1416,Male,18,Rural,Masters
+1417,Male,15,Rural,Bachelor
+1418,Female,17,Rural,Bachelor
+1419,Female,15,Urban,PhD
+1420,Female,15,Rural,Masters
+1421,Female,15,Urban,Masters
+1422,Female,15,Urban,Masters
+1423,Female,17,Urban,Masters
+1424,Male,17,Urban,High School
+1425,Female,18,Urban,Masters
+1426,Male,16,Urban,Bachelor
+1427,Male,17,Urban,Bachelor
+1428,Female,17,Urban,High School
+1429,Male,16,Urban,Bachelor
+1430,Female,17,Urban,Bachelor
+1431,Male,15,Rural,Masters
+1432,Female,15,Rural,Bachelor
+1433,Male,16,Rural,High School
+1434,Female,18,Urban,Masters
+1435,Female,18,Rural,PhD
+1436,Female,16,Rural,Masters
+1437,Female,16,Rural,High School
+1438,Female,15,Urban,Masters
+1439,Male,18,Urban,Masters
+1440,Male,17,Urban,High School
+1441,Male,15,Urban,Masters
+1442,Female,16,Rural,High School
+1443,Male,18,Rural,High School
+1444,Female,17,Rural,PhD
+1445,Female,17,Rural,Bachelor
+1446,Male,15,Urban,Bachelor
+1447,Male,18,Urban,Masters
+1448,Female,18,Urban,Masters
+1449,Male,16,Rural,PhD
+1450,Female,18,Urban,PhD
+1451,Female,18,Urban,PhD
+1452,Female,15,Rural,High School
+1453,Female,18,Rural,PhD
+1454,Female,17,Urban,PhD
+1455,Male,15,Urban,Masters
+1456,Male,15,Urban,PhD
+1457,Female,16,Urban,High School
+1458,Female,18,Urban,High School
+1459,Male,16,Urban,Masters
+1460,Male,17,Rural,PhD
+1461,Female,15,Rural,PhD
+1462,Male,15,Rural,High School
+1463,Female,15,Urban,PhD
+1464,Male,17,Rural,PhD
+1465,Female,17,Urban,PhD
+1466,Male,16,Urban,Bachelor
+1467,Female,16,Rural,Masters
+1468,Male,16,Urban,Bachelor
+1469,Male,18,Urban,Masters
+1470,Female,15,Rural,High School
+1471,Male,15,Rural,PhD
+1472,Female,16,Rural,Masters
+1473,Male,15,Urban,Bachelor
+1474,Female,16,Rural,PhD
+1475,Male,18,Rural,High School
+1476,Female,18,Urban,Masters
+1477,Male,17,Rural,Masters
+1478,Female,18,Rural,Masters
+1479,Male,16,Rural,PhD
+1480,Female,18,Urban,Bachelor
+1481,Female,17,Urban,Bachelor
+1482,Female,15,Urban,Masters
+1483,Male,16,Urban,High School
+1484,Female,15,Rural,High School
+1485,Male,17,Urban,Bachelor
+1486,Female,17,Urban,High School
+1487,Male,17,Rural,Bachelor
+1488,Female,15,Rural,Masters
+1489,Male,15,Rural,Bachelor
+1490,Male,15,Urban,Bachelor
+1491,Female,15,Urban,Masters
+1492,Male,17,Urban,High School
+1493,Male,17,Rural,Bachelor
+1494,Female,16,Rural,Bachelor
+1495,Male,16,Urban,Masters
+1496,Male,15,Rural,High School
+1497,Male,18,Rural,Bachelor
+1498,Female,18,Rural,Masters
+1499,Male,17,Urban,Bachelor
+1500,Female,17,Rural,PhD
+1501,Male,17,Rural,Masters
+1502,Male,16,Urban,High School
+1503,Male,16,Urban,High School
+1504,Female,17,Rural,High School
+1505,Male,17,Rural,High School
+1506,Male,17,Urban,Bachelor
+1507,Female,18,Urban,Bachelor
+1508,Male,16,Rural,High School
+1509,Female,18,Rural,High School
+1510,Female,18,Rural,High School
+1511,Male,17,Rural,Bachelor
+1512,Female,17,Urban,High School
+1513,Male,15,Rural,High School
+1514,Female,15,Rural,PhD
+1515,Female,18,Urban,PhD
+1516,Male,16,Rural,High School
+1517,Female,17,Urban,Masters
+1518,Female,17,Rural,High School
+1519,Female,18,Rural,PhD
+1520,Female,15,Urban,Masters
+1521,Female,16,Urban,Masters
+1522,Male,15,Rural,PhD
+1523,Female,15,Rural,PhD
+1524,Male,15,Rural,PhD
+1525,Female,15,Urban,Masters
+1526,Male,17,Rural,High School
+1527,Male,17,Urban,Bachelor
+1528,Female,15,Urban,Bachelor
+1529,Female,16,Rural,PhD
+1530,Female,18,Urban,Bachelor
+1531,Male,16,Rural,PhD
+1532,Female,16,Rural,PhD
+1533,Male,16,Rural,PhD
+1534,Male,15,Rural,Bachelor
+1535,Male,17,Rural,PhD
+1536,Female,16,Urban,Masters
+1537,Female,15,Urban,High School
+1538,Male,16,Rural,High School
+1539,Male,16,Rural,PhD
+1540,Female,15,Urban,High School
+1541,Male,17,Urban,Bachelor
+1542,Female,17,Urban,Bachelor
+1543,Male,18,Urban,High School
+1544,Female,15,Rural,Bachelor
+1545,Male,18,Rural,High School
+1546,Female,18,Urban,High School
+1547,Male,18,Rural,High School
+1548,Female,17,Urban,PhD
+1549,Female,15,Rural,High School
+1550,Male,18,Urban,PhD
+1551,Male,15,Rural,High School
+1552,Female,15,Urban,High School
+1553,Male,17,Urban,High School
+1554,Female,18,Rural,Bachelor
+1555,Male,18,Urban,PhD
+1556,Female,15,Rural,PhD
+1557,Female,16,Rural,High School
+1558,Female,17,Urban,High School
+1559,Female,17,Rural,Bachelor
+1560,Female,17,Rural,Bachelor
+1561,Female,17,Rural,Bachelor
+1562,Male,18,Rural,PhD
+1563,Female,18,Rural,PhD
+1564,Male,16,Urban,PhD
+1565,Female,17,Rural,High School
+1566,Female,17,Rural,PhD
+1567,Female,15,Rural,Masters
+1568,Female,18,Rural,Masters
+1569,Male,17,Rural,Bachelor
+1570,Male,16,Urban,PhD
+1571,Female,16,Rural,Masters
+1572,Male,18,Urban,Bachelor
+1573,Male,16,Urban,PhD
+1574,Female,16,Urban,High School
+1575,Male,18,Urban,Masters
+1576,Female,17,Rural,High School
+1577,Male,17,Urban,PhD
+1578,Female,16,Urban,Masters
+1579,Female,16,Rural,PhD
+1580,Female,17,Rural,High School
+1581,Female,18,Rural,Masters
+1582,Male,16,Urban,High School
+1583,Female,15,Rural,PhD
+1584,Female,18,Rural,PhD
+1585,Female,16,Urban,High School
+1586,Male,16,Rural,Masters
+1587,Female,15,Rural,High School
+1588,Male,15,Rural,PhD
+1589,Female,17,Rural,High School
+1590,Male,18,Urban,PhD
+1591,Male,18,Rural,High School
+1592,Female,17,Rural,Masters
+1593,Male,18,Urban,Masters
+1594,Female,18,Rural,High School
+1595,Female,18,Urban,High School
+1596,Female,18,Rural,Masters
+1597,Male,18,Urban,PhD
+1598,Male,15,Urban,Masters
+1599,Female,18,Urban,PhD
+1600,Female,15,Urban,High School
+1601,Male,18,Rural,High School
+1602,Female,17,Urban,PhD
+1603,Female,16,Rural,High School
+1604,Female,15,Urban,PhD
+1605,Male,18,Urban,Bachelor
+1606,Male,17,Urban,Masters
+1607,Male,16,Rural,Bachelor
+1608,Female,15,Urban,PhD
+1609,Female,16,Rural,Masters
+1610,Female,17,Rural,PhD
+1611,Male,15,Rural,Masters
+1612,Female,16,Rural,Masters
+1613,Female,18,Rural,Masters
+1614,Female,15,Rural,Masters
+1615,Female,16,Rural,PhD
+1616,Male,17,Rural,Masters
+1617,Male,17,Rural,Masters
+1618,Female,15,Urban,Bachelor
+1619,Male,16,Urban,High School
+1620,Male,15,Urban,High School
+1621,Female,15,Urban,Bachelor
+1622,Female,16,Urban,Bachelor
+1623,Male,16,Rural,PhD
+1624,Female,18,Rural,PhD
+1625,Male,16,Rural,PhD
+1626,Female,17,Rural,Bachelor
+1627,Male,15,Rural,PhD
+1628,Female,15,Rural,Masters
+1629,Male,17,Rural,PhD
+1630,Male,16,Urban,PhD
+1631,Male,17,Urban,PhD
+1632,Female,17,Urban,High School
+1633,Male,18,Urban,Masters
+1634,Male,17,Rural,PhD
+1635,Female,15,Rural,PhD
+1636,Female,17,Rural,PhD
+1637,Male,15,Urban,PhD
+1638,Male,15,Rural,High School
+1639,Female,15,Rural,Bachelor
+1640,Female,16,Rural,Masters
+1641,Female,18,Urban,Bachelor
+1642,Female,15,Rural,Masters
+1643,Female,15,Urban,High School
+1644,Male,16,Urban,PhD
+1645,Female,15,Urban,Bachelor
+1646,Male,17,Urban,PhD
+1647,Male,17,Rural,Bachelor
+1648,Male,18,Urban,High School
+1649,Female,15,Urban,High School
+1650,Male,16,Rural,High School
+1651,Male,17,Rural,Bachelor
+1652,Female,16,Urban,Masters
+1653,Male,16,Rural,Bachelor
+1654,Male,17,Urban,Masters
+1655,Female,16,Urban,Bachelor
+1656,Male,17,Urban,Bachelor
+1657,Male,16,Urban,High School
+1658,Male,17,Rural,PhD
+1659,Female,15,Urban,PhD
+1660,Female,18,Rural,Masters
+1661,Female,17,Rural,PhD
+1662,Male,17,Rural,Bachelor
+1663,Male,18,Rural,Bachelor
+1664,Female,17,Urban,High School
+1665,Male,17,Rural,High School
+1666,Male,16,Urban,PhD
+1667,Female,18,Rural,Masters
+1668,Female,15,Rural,PhD
+1669,Male,17,Urban,PhD
+1670,Male,18,Urban,PhD
+1671,Male,16,Urban,PhD
+1672,Female,15,Rural,Bachelor
+1673,Female,18,Rural,Masters
+1674,Female,15,Urban,Bachelor
+1675,Female,15,Urban,Masters
+1676,Male,15,Urban,High School
+1677,Female,17,Urban,PhD
+1678,Female,17,Rural,Bachelor
+1679,Female,16,Urban,PhD
+1680,Female,16,Urban,High School
+1681,Female,18,Urban,High School
+1682,Male,16,Urban,PhD
+1683,Male,15,Rural,Masters
+1684,Female,15,Urban,Bachelor
+1685,Male,17,Rural,PhD
+1686,Female,15,Urban,Bachelor
+1687,Female,18,Urban,High School
+1688,Male,15,Rural,Bachelor
+1689,Male,15,Urban,Bachelor
+1690,Female,18,Rural,PhD
+1691,Female,16,Rural,Bachelor
+1692,Female,16,Urban,PhD
+1693,Female,18,Rural,High School
+1694,Female,17,Rural,PhD
+1695,Female,15,Rural,PhD
+1696,Female,18,Rural,Masters
+1697,Male,15,Rural,Bachelor
+1698,Female,17,Rural,High School
+1699,Female,15,Rural,PhD
+1700,Male,18,Rural,High School
+1701,Female,15,Urban,Masters
+1702,Female,16,Urban,Bachelor
+1703,Male,17,Rural,PhD
+1704,Female,17,Urban,Bachelor
+1705,Male,17,Rural,Masters
+1706,Male,18,Rural,Masters
+1707,Female,17,Urban,High School
+1708,Female,16,Rural,PhD
+1709,Female,18,Rural,High School
+1710,Female,16,Rural,Masters
+1711,Male,15,Rural,Bachelor
+1712,Female,15,Urban,High School
+1713,Male,15,Rural,High School
+1714,Female,15,Rural,Bachelor
+1715,Female,16,Rural,High School
+1716,Female,18,Urban,Bachelor
+1717,Male,18,Rural,PhD
+1718,Female,17,Urban,Bachelor
+1719,Female,16,Urban,PhD
+1720,Female,15,Rural,Bachelor
+1721,Female,16,Rural,Masters
+1722,Male,17,Urban,Masters
+1723,Female,17,Rural,PhD
+1724,Male,16,Urban,PhD
+1725,Male,16,Urban,Masters
+1726,Male,16,Rural,PhD
+1727,Male,18,Rural,Bachelor
+1728,Male,15,Urban,Bachelor
+1729,Male,16,Urban,Masters
+1730,Female,16,Urban,High School
+1731,Male,16,Urban,Bachelor
+1732,Male,17,Rural,PhD
+1733,Male,17,Rural,High School
+1734,Female,18,Rural,High School
+1735,Female,15,Rural,Bachelor
+1736,Male,18,Rural,Bachelor
+1737,Female,15,Urban,High School
+1738,Male,17,Rural,PhD
+1739,Female,17,Rural,Masters
+1740,Female,17,Rural,PhD
+1741,Male,18,Rural,PhD
+1742,Female,16,Rural,Bachelor
+1743,Female,16,Urban,Masters
+1744,Male,17,Urban,Masters
+1745,Male,16,Urban,Masters
+1746,Female,16,Rural,Masters
+1747,Male,18,Urban,PhD
+1748,Male,15,Urban,PhD
+1749,Male,17,Rural,High School
+1750,Female,17,Rural,Bachelor
+1751,Female,18,Rural,Masters
+1752,Male,18,Urban,High School
+1753,Female,16,Urban,High School
+1754,Female,17,Rural,High School
+1755,Female,15,Rural,PhD
+1756,Female,18,Urban,Masters
+1757,Female,15,Urban,Masters
+1758,Male,15,Rural,Bachelor
+1759,Male,17,Rural,Masters
+1760,Male,17,Urban,Masters
+1761,Female,18,Rural,High School
+1762,Female,17,Urban,PhD
+1763,Male,17,Urban,Masters
+1764,Female,17,Urban,PhD
+1765,Male,15,Urban,Masters
+1766,Male,18,Rural,High School
+1767,Male,16,Rural,PhD
+1768,Female,15,Urban,High School
+1769,Female,17,Urban,Masters
+1770,Male,15,Urban,PhD
+1771,Male,17,Urban,Bachelor
+1772,Male,17,Urban,Bachelor
+1773,Male,15,Rural,PhD
+1774,Female,18,Rural,PhD
+1775,Female,17,Rural,High School
+1776,Male,18,Rural,PhD
+1777,Male,16,Urban,High School
+1778,Female,17,Urban,Masters
+1779,Female,18,Urban,High School
+1780,Male,18,Urban,PhD
+1781,Male,16,Urban,PhD
+1782,Male,18,Rural,Masters
+1783,Female,18,Urban,PhD
+1784,Female,16,Rural,PhD
+1785,Female,17,Rural,Bachelor
+1786,Male,18,Rural,Bachelor
+1787,Male,18,Rural,Masters
+1788,Female,18,Urban,High School
+1789,Female,15,Rural,Bachelor
+1790,Male,16,Rural,High School
+1791,Female,15,Rural,PhD
+1792,Female,16,Urban,Bachelor
+1793,Male,17,Urban,Masters
+1794,Female,17,Urban,Masters
+1795,Male,18,Rural,Masters
+1796,Male,16,Rural,Bachelor
+1797,Male,17,Urban,High School
+1798,Male,16,Rural,PhD
+1799,Male,17,Urban,High School
+1800,Male,15,Urban,High School
+1801,Male,17,Rural,PhD
+1802,Female,15,Rural,PhD
+1803,Male,17,Rural,Bachelor
+1804,Male,18,Rural,Bachelor
+1805,Female,15,Urban,Bachelor
+1806,Female,17,Urban,Bachelor
+1807,Female,18,Urban,Bachelor
+1808,Male,15,Urban,PhD
+1809,Female,18,Urban,High School
+1810,Male,16,Rural,Bachelor
+1811,Male,16,Urban,Bachelor
+1812,Male,15,Urban,PhD
+1813,Male,17,Urban,Bachelor
+1814,Female,15,Rural,High School
+1815,Female,18,Rural,High School
+1816,Male,17,Rural,PhD
+1817,Male,16,Rural,Masters
+1818,Male,17,Urban,PhD
+1819,Female,16,Urban,Masters
+1820,Male,17,Rural,Masters
+1821,Male,17,Rural,Masters
+1822,Female,17,Urban,Bachelor
+1823,Female,18,Urban,PhD
+1824,Male,18,Rural,Masters
+1825,Female,15,Rural,High School
+1826,Female,15,Rural,Bachelor
+1827,Male,16,Rural,PhD
+1828,Female,18,Urban,Masters
+1829,Male,16,Urban,High School
+1830,Female,15,Urban,PhD
+1831,Male,16,Rural,PhD
+1832,Male,15,Rural,Bachelor
+1833,Male,18,Urban,PhD
+1834,Female,17,Urban,Bachelor
+1835,Male,18,Urban,Masters
+1836,Female,16,Urban,Bachelor
+1837,Male,16,Rural,High School
+1838,Male,18,Urban,Bachelor
+1839,Female,18,Urban,High School
+1840,Male,15,Urban,Bachelor
+1841,Male,16,Urban,PhD
+1842,Female,16,Urban,Masters
+1843,Male,18,Urban,High School
+1844,Male,17,Urban,Bachelor
+1845,Male,16,Rural,Bachelor
+1846,Male,17,Rural,Bachelor
+1847,Female,18,Rural,PhD
+1848,Female,18,Rural,PhD
+1849,Male,15,Urban,High School
+1850,Female,16,Rural,High School
+1851,Male,17,Rural,PhD
+1852,Female,15,Urban,High School
+1853,Male,16,Urban,Masters
+1854,Male,15,Rural,Masters
+1855,Male,18,Rural,PhD
+1856,Male,16,Urban,High School
+1857,Male,15,Rural,Bachelor
+1858,Male,15,Urban,Masters
+1859,Female,17,Urban,PhD
+1860,Male,15,Urban,PhD
+1861,Female,16,Urban,PhD
+1862,Male,16,Rural,Bachelor
+1863,Female,17,Urban,Masters
+1864,Female,16,Urban,PhD
+1865,Female,18,Rural,PhD
+1866,Male,16,Urban,PhD
+1867,Male,16,Rural,Bachelor
+1868,Female,15,Rural,PhD
+1869,Male,15,Rural,Bachelor
+1870,Female,16,Urban,Bachelor
+1871,Male,17,Rural,Bachelor
+1872,Female,15,Rural,Masters
+1873,Female,17,Urban,Masters
+1874,Male,16,Rural,PhD
+1875,Female,16,Rural,PhD
+1876,Male,18,Rural,Masters
+1877,Female,15,Rural,High School
+1878,Female,16,Rural,Masters
+1879,Male,18,Urban,Bachelor
+1880,Male,15,Rural,Masters
+1881,Male,16,Rural,Bachelor
+1882,Female,16,Urban,PhD
+1883,Male,15,Urban,High School
+1884,Female,15,Urban,PhD
+1885,Female,15,Rural,Bachelor
+1886,Male,16,Urban,Bachelor
+1887,Male,16,Rural,Bachelor
+1888,Female,18,Rural,High School
+1889,Female,17,Urban,Masters
+1890,Male,15,Urban,PhD
+1891,Male,16,Rural,PhD
+1892,Male,16,Urban,Masters
+1893,Male,15,Rural,PhD
+1894,Male,17,Urban,High School
+1895,Female,15,Urban,PhD
+1896,Female,17,Urban,Bachelor
+1897,Female,16,Rural,Masters
+1898,Female,17,Urban,High School
+1899,Male,18,Rural,Masters
+1900,Male,16,Rural,PhD
+1901,Male,18,Rural,Bachelor
+1902,Female,15,Rural,Masters
+1903,Female,15,Urban,PhD
+1904,Male,15,Rural,High School
+1905,Male,17,Rural,Masters
+1906,Female,16,Urban,PhD
+1907,Female,15,Rural,Masters
+1908,Male,15,Urban,Masters
+1909,Male,16,Rural,Masters
+1910,Female,15,Urban,High School
+1911,Male,18,Rural,PhD
+1912,Male,16,Urban,Bachelor
+1913,Male,16,Rural,High School
+1914,Female,16,Rural,High School
+1915,Female,18,Urban,High School
+1916,Female,16,Urban,Bachelor
+1917,Female,18,Urban,PhD
+1918,Female,16,Urban,PhD
+1919,Female,17,Rural,PhD
+1920,Female,15,Rural,Masters
+1921,Male,17,Urban,Masters
+1922,Male,15,Rural,Masters
+1923,Male,18,Urban,Bachelor
+1924,Male,17,Urban,Masters
+1925,Female,16,Rural,Bachelor
+1926,Male,15,Rural,PhD
+1927,Male,15,Rural,Masters
+1928,Female,17,Rural,Masters
+1929,Female,18,Rural,High School
+1930,Male,17,Rural,Bachelor
+1931,Male,18,Rural,PhD
+1932,Female,18,Urban,High School
+1933,Male,15,Urban,High School
+1934,Male,17,Urban,PhD
+1935,Female,17,Urban,High School
+1936,Male,18,Urban,Bachelor
+1937,Female,17,Rural,Bachelor
+1938,Male,16,Urban,Masters
+1939,Female,16,Urban,PhD
+1940,Female,17,Urban,Masters
+1941,Female,17,Urban,High School
+1942,Male,18,Urban,Bachelor
+1943,Female,16,Urban,Bachelor
+1944,Male,16,Urban,Bachelor
+1945,Male,15,Rural,High School
+1946,Male,18,Rural,Bachelor
+1947,Male,15,Urban,High School
+1948,Female,16,Rural,Masters
+1949,Female,18,Rural,High School
+1950,Male,17,Rural,Masters
+1951,Male,18,Rural,High School
+1952,Female,17,Urban,Masters
+1953,Male,17,Rural,Bachelor
+1954,Female,18,Rural,Masters
+1955,Male,17,Rural,Bachelor
+1956,Male,15,Urban,Bachelor
+1957,Female,16,Urban,Masters
+1958,Male,17,Urban,High School
+1959,Female,15,Urban,High School
+1960,Male,17,Urban,PhD
+1961,Male,16,Urban,High School
+1962,Male,15,Urban,PhD
+1963,Female,16,Rural,High School
+1964,Male,16,Rural,High School
+1965,Male,15,Rural,Bachelor
+1966,Male,15,Urban,PhD
+1967,Male,15,Urban,High School
+1968,Female,18,Urban,PhD
+1969,Female,15,Urban,Bachelor
+1970,Male,15,Urban,Bachelor
+1971,Female,15,Rural,PhD
+1972,Male,15,Rural,Bachelor
+1973,Male,17,Urban,Masters
+1974,Male,18,Urban,PhD
+1975,Female,16,Urban,Bachelor
+1976,Female,15,Urban,Masters
+1977,Female,17,Rural,High School
+1978,Female,17,Urban,PhD
+1979,Female,17,Urban,High School
+1980,Female,16,Urban,PhD
+1981,Female,15,Urban,Bachelor
+1982,Female,18,Rural,High School
+1983,Female,18,Urban,Bachelor
+1984,Male,17,Urban,Bachelor
+1985,Female,16,Rural,PhD
+1986,Female,16,Rural,PhD
+1987,Female,16,Rural,PhD
+1988,Female,18,Urban,High School
+1989,Female,17,Urban,Masters
+1990,Female,15,Rural,PhD
+1991,Female,18,Rural,PhD
+1992,Female,17,Rural,High School
+1993,Female,17,Rural,PhD
+1994,Female,15,Rural,High School
+1995,Female,15,Rural,Bachelor
+1996,Male,15,Urban,PhD
+1997,Male,16,Urban,PhD
+1998,Female,15,Urban,Bachelor
+1999,Female,17,Rural,Bachelor
+2000,Male,15,Rural,Bachelor
